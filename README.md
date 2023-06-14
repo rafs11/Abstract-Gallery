@@ -24,8 +24,6 @@
 
 O Abstract Gallery é um projeto para apresentar fotos/vídeos em formato de galeria com um estilo personalizado.
 
-- [Acesse online, o projeto finalizado]()
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -37,7 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📞 Contato
 
 - 📱(61) 9 9145 4660
-</br>
 - ✉️ rafaelsg1169@gmail.com
 
 ## 📝 Licença
