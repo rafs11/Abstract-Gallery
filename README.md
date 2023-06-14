@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Abstract Gallery </h1>
 
 <p align="center">Um site para apresentar suas fotos/vídeos em formato de galeria. <br/>
 </p>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://i.ibb.co/VV4kLVk/Whats-App-Image-2023-06-13-at-22-22-22.jpg" width="100%">
+  <img alt="projeto Abstract Gallery" src="https://i.ibb.co/VV4kLVk/Whats-App-Image-2023-06-13-at-22-22-22.jpg" width="100%">
 </p>
 
 ## 💻 Projeto
